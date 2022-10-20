@@ -8,5 +8,5 @@ Part of hiring assessment
 - Install Requirements `pip install -r requirements.txt`
 - Run the flask application `python3 run.py`
 
-The endpoint is at: POST http://127.0.0.1:5000/
+The endpoint is at: POST http://127.0.0.1:5000/  
 Use ngrok to expose ip to internet `ngrok http 5000`
